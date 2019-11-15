@@ -1,3 +1,1 @@
-## First Step Fencing
-
-Fencing gear coming soon.
+# jekyll-html5up-fractal
